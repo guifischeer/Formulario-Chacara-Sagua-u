@@ -29,6 +29,7 @@ document.getElementById("cadastroForm").addEventListener("submit", function(even
     const linkedin = document.querySelector("input [name= 'linkedin']");
     const hobbies = document.querySelector("input [name= 'hobbies']");
     const observacoes = document.querySelector("input [name= 'observacoes']");
+    const termos = document.querySelector("input [name= 'termos']");
 
 
 

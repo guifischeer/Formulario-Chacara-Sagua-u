@@ -22,7 +22,7 @@
     width: 120px;
     height: auto;
     display: block;
-    margin: 0 auto 10px;
+    margin: auto;
   }
   
   main {
@@ -34,7 +34,7 @@
   
   form label {
     display: block;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     font-weight: bold;
   }
   
